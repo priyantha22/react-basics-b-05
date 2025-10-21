@@ -1,3 +1,5 @@
+# section 01
+
 ## This is for learning Version Controlling
 
 ## step 01 : create a repository github.com
@@ -81,3 +83,26 @@ git branch -M main
 ...bash
 git push -U origin main
 ...
+
+## step 15 : check if the changes are there is the remote
+
+...........
+
+# section 02
+
+## step 16 : Do a file change
+
+...bash
+git push -U origin main
+...
+
+## 17 : check file change in vscode
+
+## 18 : check file change in the terminal using
+
+...bash
+git status
+...
+
+
+
