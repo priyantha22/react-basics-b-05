@@ -106,3 +106,40 @@ git status
 
 
 
+## AFTER WE GIVE A COMMIT (CHANGES) TO GIT HOW 
+...BASH
+git push
+...
+
+## git commit -m "update the documentation"
+(IN THE GIT HUB WE CANT SEE &  AFTER GIVE
+git push
+
+WE CAN SEE IN GITHUB . ABOVE COMMIT & AFTER CLICK IT ,WE CAN SEE OUR ALL UPDATES
+)
+
+## step 19 : Repeat the step 08
+
+## step 20 : proper commit message
+
+...bash
+git commit -m "update the documentation"
+...
+
+## step 21 : push the changes existing branch
+
+...bash
+git push
+...
+
+## step 22 : create a new branch called 'dew' from 'main' branch
+
+...bash
+git checkout -b dev
+...
+
+## step 23 : publish the branch to remote origin div
+
+...bash
+git push -U origin dev
+...
