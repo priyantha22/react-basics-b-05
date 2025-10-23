@@ -143,3 +143,23 @@ git checkout -b dev
 ...bash
 git push -U origin dev
 ...
+
+## step 24 : Repeat step 08
+
+## step 25 : Create a PR (pull Request) merge in to main
+...bash
+## Navigate between branches
+
+git checkout main
+
+git checkout dev
+
+check the changes/status between local and remote
+get fetch
+
+# checkout to main branch
+git checkout main
+
+# Pull the changes to local to remote
+git pull
+...
