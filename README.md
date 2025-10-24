@@ -163,3 +163,22 @@ git checkout main
 # Pull the changes to local to remote
 git pull
 ...
+
+# stash changes tempory
+git stash
+
+# Apply stashed changes back
+git stash apply
+
+# Merge changes in dev branch to main
+
+git checkout main
+
+git merge dev
+
+git status
+
+git push
+
+...
+
